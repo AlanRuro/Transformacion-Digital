@@ -1,0 +1,6 @@
+Tarea
+Resolver el siguiente problema con Git y Github
+Objetivo:
+Conocer y aprender las herramientas Git y Github para
+el la gestión de versiones y trabajo colaborativo
+durante el ciclo de vida del software
